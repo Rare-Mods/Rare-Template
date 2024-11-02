@@ -1,4 +1,8 @@
+## Rare-Template
 
+This repository serves as the base project for new mods created by the Rare Mods development team.
+
+<!--
 Installation information
 =======
 
@@ -23,3 +27,4 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+-->
